@@ -4,7 +4,7 @@ content:
     label: Publicações
     type: collection
     path: posts
-    extension: json
+    filename: "{primary}.json"
     format: json
     fields:
       - name: title
