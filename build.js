@@ -48,3 +48,16 @@ fs.writeFileSync(
 );
 
 console.log(`${items.length} publicações do painel preparadas.`);
+
+
+const sourceImages = path.join(__dirname, 'public', 'images');
+const destinationImages = path.join(__dirname, 'images');
+
+if (fs.existsSync(sourceImages)) {
+  fs.cpSync(sourceImages, destinationImages, {
+    recursive: true,
+    force: true
+  });
+  console.log('Imagens preparadas para publicação.');
+}
+
