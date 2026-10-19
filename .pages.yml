@@ -14,6 +14,7 @@ content:
         label: Categoria
         type: select
         options:
+          values:  
           - Enquanto o amor acontece
           - Cartas que nunca enviei
           - Sobre partir e permanecer
