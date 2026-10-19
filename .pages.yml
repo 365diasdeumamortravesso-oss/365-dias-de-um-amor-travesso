@@ -31,3 +31,9 @@ content:
       - name: body
         label: Texto completo
         type: rich-text
+
+
+
+media:
+  input: public/images
+  output: /images
