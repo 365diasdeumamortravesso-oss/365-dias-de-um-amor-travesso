@@ -1,0 +1,33 @@
+
+content:
+  - name: posts
+    label: Publicações
+    type: collection
+    path: posts
+    format: json
+    fields:
+      - name: title
+        label: Título
+        type: string
+        required: true
+      - name: category
+        label: Categoria
+        type: select
+        options:
+          - Enquanto o amor acontece
+          - Cartas que nunca enviei
+          - Sobre partir e permanecer
+          - Depois do fim
+          - De mulher para mulher
+      - name: date
+        label: Data
+        type: date
+      - name: excerpt
+        label: Resumo
+        type: text
+      - name: image
+        label: Imagem
+        type: image
+      - name: body
+        label: Texto completo
+        type: rich-text
