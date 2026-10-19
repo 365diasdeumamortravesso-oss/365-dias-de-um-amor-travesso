@@ -1,0 +1,8 @@
+{
+  "title": "O amor também mora nos detalhes",
+  "category": "Enquanto o amor acontece",
+  "date": "2026-10-19",
+  "excerpt": "Existem sentimentos que não precisam de grandes acontecimentos para se tornarem inesquecíveis. Às vezes, o amor está justamente naquilo que quase passa despercebido.",
+  "image": "/images/Momento silencioso junto à janela.png",
+  "body": "Há uma delicadeza quase invisível nas coisas que fazemos por amor.\n\nNem sempre ele chega acompanhado de declarações extraordinárias. Às vezes, aparece em uma mensagem inesperada, na lembrança de um detalhe pequeno, na vontade de contar a alguém como foi o nosso dia.\n\nTalvez amar seja também isso: encontrar beleza na presença do outro, mesmo quando a vida não oferece nenhum acontecimento especial.\n\nPorque existem pessoas que transformam o cotidiano sem perceber. Que fazem uma conversa comum se tornar a melhor parte da noite. Que conseguem permanecer em nossos pensamentos mesmo depois que o silêncio chega.\n\nE, no fim, talvez sejam justamente esses detalhes que mais importam.\n\nNão as grandes promessas, nem as palavras cuidadosamente escolhidas.\n\nMas a sensação simples e extraordinária de perceber que, em algum lugar do mundo, existe alguém cuja presença torna os nossos dias um pouco mais bonitos."
+}
